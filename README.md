@@ -3,37 +3,19 @@
 This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 
 
-# heading1 example - <p>with #</p>
-## heading2 example - with ##
-### heading3 example - with ###
-#### heading4 example - with ####
-##### heading5 example - with #####
-###### heading6 example - with ######
-
-<table>
-   <thead>
-      <tr>
-         <th># heading1 example</th>
-         <th>Header2</th>
-       </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>data1</td>
-         <td>data2</td>
-         <td>data3</td>
-      </tr>
-      <tr>
-         <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
-      </tr>
-   </tbody>
-</table>
-
-
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heading6
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| # heading1  | code #       |
+| ## heading2  | code ##       |
+| ### heading3  | code ###       |
+| #### heading4 | code ####       |
+| ##### heading5  | code #####       |
+| ###### heading6  | code ######       |
+
