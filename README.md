@@ -3,10 +3,12 @@
 This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 
 
-# heading1 example
-## heading2 example
-### heading3 example
-#### heading4 example
-##### heading5 example
-###### heading6 example
+# heading1 example - with #
+## heading2 example - with ##
+### heading3 example - with ###
+#### heading4 example - with ####
+##### heading5 example - with #####
+###### heading6 example - with ######
+
+===
 
