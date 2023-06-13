@@ -2,6 +2,7 @@
 
 This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 
+---
 
 # heading1
 ## heading2
@@ -10,12 +11,12 @@ This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 ##### heading5
 ###### heading6
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| # heading1  | code #       |
-| ## heading2  | code ##       |
-| ### heading3  | code ###       |
-| #### heading4 | code ####       |
-| ##### heading5  | code #####       |
-| ###### heading6  | code ######       |
+| Syntax      | Markdown code |
+| ----------- | ------------- |
+| heading1    | code #        |
+| heading2    | code ##       |
+| heading3    | code ###      |
+| heading4    | code ####     |
+| heading5    | code #####    |
+| heading6    | code ######   |
 
