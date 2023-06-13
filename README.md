@@ -31,3 +31,9 @@ This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
    </tbody>
 </table>
 
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
