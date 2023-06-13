@@ -3,13 +3,7 @@
 This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 
 ---
-
-# heading1
-## heading2
-### heading3
-#### heading4
-##### heading5
-###### heading6
+### Headers
 
 | Syntax      | Markdown code |
 | ----------- | ------------- |
@@ -20,3 +14,9 @@ This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 | heading5    | code #####    |
 | heading6    | code ######   |
 
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heading6
