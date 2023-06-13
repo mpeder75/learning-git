@@ -13,13 +13,9 @@ This repo was used to learn git and github from https://youtu.be/3fUbBnN_H2c
 <table>
    <thead>
       <tr>
-         <th>Header1</th>
+         <th># heading1 example</th>
          <th>Header2</th>
-         <th>Header3</th>
-        <th>Header4</th>
-        <th>Header5</th>
-        <th>Header6</th>
-      </tr>
+       </tr>
    </thead>
    <tbody>
       <tr>
